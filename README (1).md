@@ -2,7 +2,7 @@
 ## 📌 Project Overview
 
 The notebook demonstrates a Convolutional Neural Network (CNN)-based approach to classify respiratory sounds—specifically identifying **wheezes**, **crackles**, **both**, or **none**—from audio recordings.
-The dataset used is the **ICBHI 2017 Respiratory Sound Database**, which contains real patient recordings labeled by medical experts.
+
 
 ## 🎯 Goals
 
